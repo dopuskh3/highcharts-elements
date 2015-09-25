@@ -32,12 +32,11 @@
   ],
   "main": "highcharts-elements.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#v1.0.4",
+    "polymer": "Polymer/polymer#v1.1.3",
     "highcharts": "highcharts-release#v4.1.6",
     "numeral": "adamwdraper/Numeral-js#1.5.3"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page",
     "web-component-tester": "*",
     "paper-tabs": "PolymerElements/paper-tabs",
     "paper-toolbar": "PolymerElements/paper-toolbar",
@@ -50,7 +49,7 @@
     "lp-component-page": "linchpinio/lp-component-page"
   },
   "resolutions": {
-    "polymer": "v1.0.4",
+    "polymer": "^v1.0.5",
     "webcomponentsjs": "^0.7.2"
   }
 }
